@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Erasmusbrug",
+        "description": "A stunning bridge offering beautiful views and a great place for a walk or bike ride.",
+        "latitude": 51.9090,
+        "longitude": 4.4871
+    },
+    {
+        "title": "Markthal",
+        "description": "A modern market hall with a wide variety of food stands, shops, and restaurants.",
+        "latitude": 51.9225,
+        "longitude": 4.4861
+    },
+    {
+        "title": "Kunsthal Rotterdam",
+        "description": "An art museum showcasing contemporary and modern art in a unique building.",
+        "latitude": 51.9116,
+        "longitude": 4.4780
+    },
+    {
+        "title": "Cube Houses",
+        "description": "Innovative cubic houses offering a unique architectural experience and a great photo spot.",
+        "latitude": 51.9199,
+        "longitude": 4.4884
+    },
+    {
+        "title": "Euromast",
+        "description": "An observation tower providing panoramic views of the city and beyond.",
+        "latitude": 51.9052,
+        "longitude": 4.4669
+    },
+    {
+        "title": "Het Park",
+        "description": "A beautiful park ideal for picnics, walks, and relaxing amidst greenery.",
+        "latitude": 51.9050,
+        "longitude": 4.4723
+    },
+    {
+        "title": "Witte de Withstraat",
+        "description": "A lively street known for its bars, restaurants, and cultural hotspots.",
+        "latitude": 51.9156,
+        "longitude": 4.4775
+    },
+    {
+        "title": "Rotterdam Zoo",
+        "description": "A popular zoo with a wide variety of animals and themed enclosures.",
+        "latitude": 51.9270,
+        "longitude": 4.4455
+    },
+    {
+        "title": "Fenix Food Factory",
+        "description": "A food market located in a former warehouse, offering local products and great food.",
+        "latitude": 51.9086,
+        "longitude": 4.4840
+    },
+    {
+        "title": "Oude Haven",
+        "description": "A historic harbor area with cozy cafes, restaurants, and a great atmosphere.",
+        "latitude": 51.9192,
+        "longitude": 4.4916
+    }
+]
